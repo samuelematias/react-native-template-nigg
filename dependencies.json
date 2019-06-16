@@ -1,0 +1,13 @@
+{
+  "axios": "latest",
+  "apisauce": "latest",
+  "prop-types": "latest",
+  "react-native-gesture-handler": "latest",
+  "react-navigation": "latest",
+  "react-native-device-info": "latest",
+  "react-native-dotenv": "latest",
+  "reactotron-react-native": "latest",
+  "styled-components": "latest",
+  "ramda": "latest",
+  "moment": "latest"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "react-native-template-nigg",
+  "version": "0.1.0",
+  "description": "Template for projects in React Native, with Custom Folder Structure, Global Styles, ESLint + Prettier + Babel Plugin Root Import, React Navigation, Reactotron and configured Axios.",
+  "keywords": [
+    "react-native",
+    "template",
+    "eslint",
+    "prettier",
+    "react-navigation",
+    "reactotron",
+    "babel-root-import",
+    "axios"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelmataraso/react-native-template-nigg.git"
+  },
+  "homepage": "https://github.com/samuelmataraso/react-native-template-nigg#readme",
+  "author": "Samuel Mataraso <samuelmataraso@gmail.com>",
+  "license": "MIT"
+}
