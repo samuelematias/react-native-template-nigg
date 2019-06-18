@@ -70,26 +70,20 @@ function keyboardVerticalOffset(offset) {
       returnOffset = offset;
     } else if (pixelRatio === 2 && vw === 3.75) {
       // 6, 7, 8
-      // returnOffset = offset - 100;
       returnOffset = offset;
     } else if (pixelRatio === 2 && vw === 4.14) {
       // XR
-      // returnOffset = offset - 150;
       returnOffset = offset + 25;
     } else if (pixelRatio === 3 && vw === 4.14 && isSomeIPhonePlus) {
       // 6, 7, 8 plus
-      // returnOffset = offset - 150;
       returnOffset = offset;
     } else if (pixelRatio === 3 && vw === 3.75) {
       // X, XS
-      // returnOffset = offset - 200;
       returnOffset = offset + 25;
     } else if (pixelRatio === 3 && vw === 4.14 && isMax) {
       // XS Max
-      // returnOffset = offset - 200;
       returnOffset = offset + 25;
     } else {
-      // returnOffset = offset - 100;
       returnOffset = offset;
     }
   }
