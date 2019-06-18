@@ -52,6 +52,7 @@ Technologies that make up this template:
   Declarative API exposing platform native touch and gesture system to React Native;
 - [React Native Device Info](https://github.com/react-native-community/react-native-device-info) - API Device Information for React Native;
 - [React Native Dotenv](https://github.com/zetachang/react-native-dotenv) - Let you import environment variables from a .env file in React Native, don't need any native code integration;
+- [Styled Components](https://www.styled-components.com/) - Use the best bits of ES6 and CSS to style your apps without stress 💅;
 - [Axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js;
 - [apisauce](https://github.com/infinitered/apisauce) - Talking to APIs doesn't have to be awkward anymore;
 - [Ramda](https://ramdajs.com/) - A practical functional library for JavaScript programmers;
